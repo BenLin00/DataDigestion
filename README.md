@@ -1,6 +1,9 @@
 # DataDigestion
-Consulting for Capital Area Food Bank Spring 2020
+Consulting for Capital Area Food Bank
+|
 Completed with Sapna Bagalkotkar, Natalie Wolfe, Aaron Kurtz
+|
+Spring 2020
 
 Project Champion:  Jake Elrich
 |
